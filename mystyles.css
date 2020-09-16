@@ -17,16 +17,16 @@ h1 {
 	padding-left: 1em;
 	padding-top: .5em;
 	padding-bottom: .5em;
-	font-family: 'Pacifico', cursive;
+	font-family: font-family: 'Pacifico', cursive;
 	font-size: 200%;
 	text-align: center;
 	color: white;
 }
 
 h2 {
-    color: rebeccapurple;
+    color: steelblue;
     font-weight: bold;
-    font-family: 'Srisakdi', serif;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
     font-size: 150%;
     border-bottom-style: dotted;
     border-bottom-color: #rebeccapurple;
@@ -41,8 +41,9 @@ h4 {
 
 .first {
 	font-family: 'Laila', serif;
-	color: teal;
-	padding-top: .5em;
+	color: steelblue;
+	padding-top: .5em
+font=size: 20;
 }
 
 nav {
@@ -288,4 +289,11 @@ Footer {
 	color: #2E1E1E;
 	font-size: 90%;
 	padding-right: 1em;
+}
+
+
+.video { 
+	display: block; 
+	width: 50%; 
+	margin: 0 auto;  
 }
