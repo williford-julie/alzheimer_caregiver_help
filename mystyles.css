@@ -29,7 +29,7 @@ h2 {
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
     font-size: 150%;
     border-bottom-style: dotted;
-    border-bottom-color: #rebeccapurple;
+    border-bottom-color: steelblue;
     width: 100%;
 }
 
@@ -41,9 +41,10 @@ h4 {
 
 .first {
 	font-family: 'Laila', serif;
+	font-size:25px;
 	color: steelblue;
 	padding-top: .5em
-font=size: 20;
+	
 }
 
 nav {
@@ -296,4 +297,11 @@ Footer {
 	display: block; 
 	width: 50%; 
 	margin: 0 auto;  
+}
+
+.facts {
+	font-family: Arial;
+	font-size:25px;
+	color: black;
+	padding-top: .5em;
 }
