@@ -8,9 +8,7 @@ header {
 }
 
 body {
-	background-image: url("images/BG2.jpg");
-	background-repeat: repeat-y;
-	background-size: 100%;
+	background-color: #E0EDF9;
 }
 	
 h1 {
@@ -24,12 +22,12 @@ h1 {
 }
 
 h2 {
-    color: steelblue;
+    color: #1569C7;
     font-weight: bold;
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
     font-size: 150%;
     border-bottom-style: dotted;
-    border-bottom-color: steelblue;
+    border-bottom-color: #1569C7;
     width: 100%;
 }
 
@@ -42,7 +40,7 @@ h4 {
 .first {
 	font-family: 'Laila', serif;
 	font-size:25px;
-	color: steelblue;
+	color: #1569C7;
 	padding-top: .5em
 	
 }
@@ -303,7 +301,7 @@ Footer {
 .facts {
 	font-family: Arial;
 	font-size:25px;
-	color: #2554C7;
+	color: #1569C7
 	padding-top: .5em;
 }
 
