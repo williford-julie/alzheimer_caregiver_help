@@ -277,7 +277,7 @@ input[type="text"],input[type="email"], textarea {
 }
 
 
-Footer {
+.footer {
 	position: relative;
 	bottom: 0;
 	left: 0;
@@ -286,10 +286,11 @@ Footer {
 	padding-top: .5em;
 	padding-bottom: 1em;
 	text-align: center;
-	color: #2E1E1E;
+	color: #504A4B;
 	font-size: 20px;
 	padding-right: 1em;
 }
+
 
 
 .video { 
