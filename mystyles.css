@@ -32,9 +32,10 @@ h2 {
 }
 
 h3 {
-	color: rebeccapurple;
+	color: #7FFFD4;
 	font-weight: bold;
-	font-family: 'Srisakdi', serif;
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-size: 90%;
 }
 
 .first {
