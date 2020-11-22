@@ -37,6 +37,17 @@ h3 {
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
 	font-size: 150%;
 }
+
+h4 {
+	padding-left: 1em;
+	padding-top: .5em;
+	padding-bottom: .5em;
+	font-family: font-family: 'Pacifico', cursive;
+	font-size: 100%;
+	text-align: center;
+	color: white;
+}
+
 .first {
 	font-family: 'Laila', serif;
 	font-size:25px;
