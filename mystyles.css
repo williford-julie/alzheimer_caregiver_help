@@ -120,144 +120,11 @@ section {
 	padding-bottom: 1em;
 }
 
-
 .firstInst {
 	text-align: center;
 	font-family: 'Laila', serif;
 	color: #D4D4D4;
 	padding-top: .5em;
-}
-
-#hiddenWrapper {
-	display: none;
-}
-
-#showImg:Hover {
-	background-color: #CDFEAA;
-
-}
-
-#showImg {
-	text-align: center;
-	padding: 1em 4em 1em 4em;
-	margin-left: 45%;
-	margin-right: 45%;
-	background-color: #D8E4E4;
-	font-weight: bold;
-	margin-bottom: 25%;
-	border-radius: 40%;
-	color: #2E1E1E;
-	font-family: 'Laila', serif;
-}
-
-#gall1 {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: center;
-	padding-top: 2em;
-	padding-bottom: 2em;
-}
-
-#gall2 {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: center;
-	padding-top: 2em;
-	padding-bottom: 2em;
-}
-
-#gall3 {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: center;
-	padding-top: 2em;
-	padding-bottom: 4em;
-}
-
-.gallimg {
-	border: 1;
-	border-style: inset;
-	margin-left: 20px;
-	margin-right: 20px;
-	vertical-align: middle;
-}
-
-
-#contactform {
-    margin-top: 2em;
-    margin-bottom: 10em;
-    margin-right: auto;
-    margin-left: auto;
-    background-color: teal;
-    width: 50%;
-    padding: 0.5em;
-	
-}
-
-	
-.formfirst {
-	font-family: 'Laila', serif;
-	color: rebeccapurple;
-	text-align: center;
-	font-size: 120%;
-	padding-top: 5em;
-	margin-left: 4em;
-	margin-right: 4em;
-}
-
-form  { 
-	display: table;
-	padding-left: 2.5em;
-}
-
-fieldset {
-	
-    margin-bottom: 1em;
-    margin-right: auto;
-    margin-left: 3em;
-    background-color: grey;
-    width: 100%;
-    padding: 0.5em
-}
-
-.lbls { 
-	display: table-row;
-	padding-left: 2em;
-	padding-right: 2em;
-	padding-bottom: .5em;
-	padding-top: .5em;
-	font-size: 125%;	
-}
-
-label { 
-	display: table-cell; 
-}
-
-input { 
-	display: table-cell;
-	margin-left: 2em;	
-}
-
-textarea {
-	display: table;
-	margin-left: 2em;
-}
-
-input[type="text"],input[type="email"], textarea {
-	background-color: ##E5E0CD;
-}
-
-.buttonHolder {
-	margin: -0 auto;
-	text-align: center;
-}
-
-.btnTxt {
-	padding-top: 1em;
-	padding-bottom: 1em;
 }
 
 .column h4 {
@@ -287,7 +154,6 @@ input[type="text"],input[type="email"], textarea {
 	text-align: Center;
 }
 
-
 .footer {
 	position: relative;
 	bottom: 0;
@@ -301,8 +167,6 @@ input[type="text"],input[type="email"], textarea {
 	font-size: 20px;
 	padding-right: 1em;
 }
-
-
 
 .video { 
 	display: block; 
